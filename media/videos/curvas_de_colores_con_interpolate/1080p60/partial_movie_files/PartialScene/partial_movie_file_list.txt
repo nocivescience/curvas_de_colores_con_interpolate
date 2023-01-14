@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Manim/ManimCE/curvas_de_colores_con_interpolate/media/videos/curvas_de_colores_con_interpolate/1080p60/partial_movie_files/PartialScene/2724823860_3987251656_631829896.mp4'
